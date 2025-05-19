@@ -31,3 +31,6 @@ Right to a "Token", would be your API key:
 If no token exists, click "Create new token".
 
 Paste the key into the extension’s popup window.
+
+![image](https://github.com/user-attachments/assets/04d4eb79-8502-4e10-8429-0337aa38d54b)
+Now when you visit a Steam page of a visual novel you would see this box.

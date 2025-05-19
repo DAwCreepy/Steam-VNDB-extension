@@ -1,11 +1,33 @@
-Instructions:
-Download the VNDB steam.zip archive and extract it somewhere.
-Open the Extensions Page and type in the address bar:
+1. Download & Extract the Extension
+Download the VNDB steam.zip archive and extract it.
+
+2. Install the Extension in Chromium Browsers
+Open your browser (Chrome, Edge, Brave, etc.).
+
+Go to the extensions page by typing in the address bar:
+
 chrome://extensions
-Enable Developer Mode: Toggle the switch labeled "Developer mode" (somwhere in the top-right corner).
-Load the unpacked extension by clicking "Load unpacked".
-Select the folder that you extracted called VNDB steam.
-The extension should appear in your toolbar, click on it and the popup window will appear.
-To get the API key go to the VNDB and log into your account (or create a new one), click "My Profile", then "Applications" and there would be a field with your API key next to the word "Token" (if there's no such field click on the "Create new token" button).
-Copy you API key and post in the popup window.
-If you want, you can adjust which information will be displayed.
+
+Enable Developer Mode:
+
+Toggle the switch labeled "Developer mode" in the top-right corner.
+
+Click "Load unpacked".
+
+Select the extracted VNDB steam folder.
+
+3. Using the Extension
+The extension icon will appear in your toolbar.
+
+Click it to open the popup window.
+
+4. Getting Your VNDB API Key
+Go to VNDB and log in (or create an account).
+
+Navigate to "My Profile" → "Applications".
+
+Right to a "Token", would be your API key:
+
+If no token exists, click "Create new token".
+
+Paste the key into the extension’s popup window.
